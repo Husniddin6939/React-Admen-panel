@@ -1,0 +1,18 @@
+{
+    "leads":[
+        {
+            "id":1,
+            "customer":"Husniddin",
+            "email":"husniddin@gmail.com",
+            "phone":"123-53-13",
+            "status":false
+        },
+        {
+            "id":2,
+            "customer":"Alpomish",
+            "email":"alpomish@gmail.com",
+            "phone":"187-12-13",
+            "status":false
+        }
+    ]
+}
